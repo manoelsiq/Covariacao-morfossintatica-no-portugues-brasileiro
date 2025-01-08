@@ -1,0 +1,1 @@
+Este repositório contém dados e scripts utilizados na pesquisa de doutorado "Covariação morfossintática no português brasileiro: identificação dialetal de estudantes da Universidade Federal de Sergipe". Dentro de cada pasta, existe um arquivo README, contendo as informações necessárias sobre o conteúdo de cada pasta. 
