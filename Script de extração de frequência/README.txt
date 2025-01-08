@@ -1,0 +1,1 @@
+Aqui você vai encontrar o arquivo que foi utilizado para extrair as frequências de uso, transformando as contagens de uso em variáveis numéricas. Há a extração considerando a taxa de uso e a extração considerando os log odds, conforme discriminado no texto da tese.

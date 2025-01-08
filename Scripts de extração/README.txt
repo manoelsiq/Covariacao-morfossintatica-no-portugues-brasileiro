@@ -1,0 +1,1 @@
+Nesta pasta, estão contidos dois arquivos utilizados para a extração dos dados utilizados na pesquisa, tanto para ser utilizado em Jupyter quanto para ser utilizado no Google Collab.
